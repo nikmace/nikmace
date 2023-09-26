@@ -19,7 +19,7 @@
     <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
     <img alt="Chart Js" src="https://img.shields.io/badge/Chart%20JS-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
     <img alt="Express Js" src="https://img.shields.io/badge/Express%20JS-000000?style=flat-square&logo=express&logoColor=white" />
     <img alt="Gulp" src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
