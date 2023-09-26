@@ -18,9 +18,17 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Web3" src="https://img.shields.io/badge/-Web3-ce9df2?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain.com-121D33?style=flat-square&logo=blockchaindotcom&logoColor=fff&style=for-the-badge" />
+  <img alt="Chainlink" src="https://img.shields.io/badge/chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" />
+  <img alt="Cloud Foundry" src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=Cloud%20Foundry&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <h3>Github Stats</h3>
